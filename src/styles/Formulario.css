@@ -1,0 +1,23 @@
+/* Formulario.css */
+.Formulario-container {
+  margin-bottom: 20px;
+}
+
+.Formulario-input {
+  margin-bottom: 10px;
+  width: 100%;
+  padding: 8px;
+  font-size: 16px;
+}
+
+.Formulario-button {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
+.Formulario-button:hover {
+  background-color: #0056b3;
+}
